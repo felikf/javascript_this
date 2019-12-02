@@ -1,0 +1,16 @@
+{
+  "name": "js_this",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/05_arrow.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "transpile": "babel src/06_class_bodies.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
