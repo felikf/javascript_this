@@ -1,3 +1,5 @@
+// https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
+
 function Foo(firstName, lastName) {
     this.firstName = firstName;
     this.lastName = lastName;
